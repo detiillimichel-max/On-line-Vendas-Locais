@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nome": "Café Premium 500g",
+    "preco": "18.90",
+    "categoria": "Mercearia"
+  },
+  {
+    "id": 2,
+    "nome": "Azeite Extra Virgem",
+    "preco": "35.50",
+    "categoria": "Mercearia"
+  }
+]
